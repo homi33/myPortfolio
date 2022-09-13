@@ -36,22 +36,6 @@ const Project = () => {
     },
 
     {
-      name: "ColorFlipper",
-      des: "Frontend application. || Features: Changes random background color on each Click. || Role: Developer.",
-      projectlink: "https://homi33.github.io/ColorFlipper//",
-      techused: [
-        {
-          techname: "HTML",
-        },
-        {
-          techname: "CSS",
-        },
-        {
-          techname: "JavaScript",
-        },
-      ],
-    },
-    {
       name: "Drum-Stick-Sounds",
       des: "Frontend application. || Features: On clicking on particular letters we can hear the sound of the musical instruments.|| Role: Developer.",
       projectlink: "https://homi33.github.io/DrumStick//",
@@ -67,10 +51,11 @@ const Project = () => {
         },
       ],
     },
+
     {
-      name: "Guess the Correct Number",
-      des: "Frontend Application(Game). || Features: Guess the number with 5 attempts(Hard-level) or with 10 attempts(Easy-level). On each guess of the wrong number 1 attempt loss. If given attempts are finished show the correct number.|| Role: Developer.",
-      projectlink: "https://homi33.github.io/GuessGameHomi.github.io//",
+      name: "Movie App",
+      des: "Frontend Application(Game). || Features: Whenever you hover the poster it will show the overview of that movie.|| Role: Developer.",
+      projectlink: "https://homi33.github.io/MovieApp/",
       techused: [
         {
           techname: "HTML",
@@ -114,6 +99,23 @@ const Project = () => {
         },
         {
           techname: "React-Js",
+        },
+      ],
+    },
+
+    {
+      name: "Random Picker",
+      des: "Frontend Application. || Features: When you Add Something this app will randomly select one value.|| Role: Developer.",
+      projectlink: "https://homi33.github.io/RandomPicker/",
+      techused: [
+        {
+          techname: "HTML",
+        },
+        {
+          techname: "CSS",
+        },
+        {
+          techname: "JavaScript",
         },
       ],
     },
