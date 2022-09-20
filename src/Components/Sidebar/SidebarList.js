@@ -1,6 +1,6 @@
 import React from "react";
 import "./SidebarList.css";
-import profilepic from "D:/REact/myPortfolio/src/Image/h.JPG";
+import profilepic from "../../Image/h.JPG";
 
 import {
   FcNightPortrait,
