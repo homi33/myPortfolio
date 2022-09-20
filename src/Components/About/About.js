@@ -1,6 +1,6 @@
 import React from "react";
 import "./About.css";
-import profilepic from "D:/REact/myPortfolio/src/Image/h.JPG";
+import profilepic from "../../Image/h.JPG";
 import Fade from "react-reveal/Fade";
 import Flip from "react-reveal/Flip";
 
